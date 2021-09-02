@@ -65,6 +65,7 @@ simple bullets list with asterisks:
 * one 
 * two 
 * three
+* four
 
 nested:
 * one 
