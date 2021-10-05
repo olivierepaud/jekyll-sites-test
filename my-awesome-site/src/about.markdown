@@ -4,7 +4,6 @@ title: about
 permalink: /about/
 ---
 
-I'm a self taught Photographer.  
-I'm from Paris and I've been living in Toronto for 4 years.  
+self taught Photographer based in Toronto.  
 
 contact : <contact@olivierepaud.net>
