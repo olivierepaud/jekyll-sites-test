@@ -21,9 +21,7 @@
 title: Olivier Epaud Photography
 email: contact@olivierepaud.net
 description: >- # this means to ignore newlines until "baseurl:"
-  Photography website of Olivier EPAUD
-  Please contact me!
-  ~"You're not free to do anything until you've lost everything"
+  "It's only after we've lost everything that we're free to do anything."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: olivierepaud
