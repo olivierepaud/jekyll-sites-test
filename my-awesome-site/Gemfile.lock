@@ -10,6 +10,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     ffi (1.15.3)
+    forty_jekyll_theme (1.3)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
@@ -29,6 +30,7 @@ GEM
       rouge (~> 3.0)
       safe_yaml (~> 1.0)
       terminal-table (~> 2.0)
+    jekyll-athena (0.0.2)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
     jekyll-sass-converter (2.1.0)
@@ -69,7 +71,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  forty_jekyll_theme
   jekyll (~> 4.2.0)
+  jekyll-athena
   jekyll-feed (~> 0.12)
   minima (~> 2.5)
   tzinfo (~> 1.2)
