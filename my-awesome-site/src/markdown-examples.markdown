@@ -1,6 +1,6 @@
 ---
-layout: post
-title:  "test of Markdown language"
+layout: page
+title:  examples
 date:   2021-07-30 10:47:00 -0400
 categories: jekyll update
 ---
